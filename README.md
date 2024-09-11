@@ -1,5 +1,2 @@
-# Пример проекта Java Spring Framework
-
-Проект с подключенными библиотеками лемматизаторами.
-Содержит несколько контроллеров, сервисов и репозиторий
-с подключением к бд MySQL.
+# Java Spring Framework
+A project with connected lemmatizer libraries. It contains several controllers, services, and repositories with a MySQL database connection.
