@@ -79,6 +79,7 @@
         </repository>
     </repositories>
 
+
     <distributionManagement>
         <repository>
             <id>skillbox-gitlab</id>
